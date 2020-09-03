@@ -13,30 +13,14 @@
 
 <body onload="load()"></body>
 <nav class="navBar">
-    <ul>
-        <li style="padding-top:0.5em">
-            <img src="dex/data/logo.png" style="width:100%">
+    </li>
         </li>
         <li>
             <a href="">Home</a>
         </li>
         <li>
             <a href="dex/loomians/">Loomians</a>
-        </li>
-        <li>
-            <a href="dex/abilities/">Abilities</a>
-        </li>
-        <li>
-            <a href="dex/items/">Items</a>
-        </li>
-        <li>
-            <a href="dex/moves/">Moves</a>
-        </li>
-        <li>
-            <a href="dex/miscellaneous/">Miscellaneous</a>
-        </li>
-        <li>
-            <a href="dex/contribute/">Contribute</a>
+        </li
         </li>
     </ul>
 </nav>
@@ -53,5 +37,5 @@
 <script src="https://cdnjs.cloudflare.com/ajax/libs/select2/4.0.8/js/select2.min.js"></script>
 <script>
     var basePath;
-    basePath = "https://saucesoy.github.io/Swoldex";
+    basePath = "https://Arcaneo.github.io/Zuelong-Gang";
 </script>
